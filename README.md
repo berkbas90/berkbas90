@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1>Pyton Deneme Çalışması</h1>
+    <h1>Kişisel GitHub Repo'ma Hoşgeldiniz !</h1>
     <div style="display:flex; justify-content:right;">
     <img src="https://www.python.org/static/community_logos/python-logo.png" 
      alt="Python Logo" 
@@ -8,9 +8,9 @@
      height="200" > 
     </div>
     <div>
-      <p>➡️   Bu uygulama temel algoritma problemlerini dinamik şekilde yapabilme imkanı vermektedir.</p>
-      <p>➡️   Elmas şekli çizen uygulama için boyutu girerek şeklin büyüklüğünü belirleyebilirsiniz.</p>
-      <p>➡️   Çeşitli dizi döngü vb. deneme kodları bulunur </p>
+      <p>➡️   Bu repositoryde herkese açık şekilde Python dilinde yazılmış Veri Bilimi algoritmaları ve Makine Öğrenmesi modelleri paylaşılmaktadır</p>
+      <p>➡️   Bunun yanı sıra siber güvenlik, sistem ve veri tabanı yönetiminde kullanılabilecek yazılımlara da erişilebilinecektir.</p>
+      <p>➡️   Ek olarak çeşitli veri yapıları ve algoritmalara dair kodlar paylaşılmaktadır. </p>
     </div>
     
   </body>
