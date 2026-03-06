@@ -5,7 +5,7 @@
     <img src="baseimage.png" 
      alt="Python Logo" 
      width="900" 
-     height="600" > 
+     height="700" > 
     </div>
     <div>
       <p>➡️   Bu repositoryde herkese açık şekilde Python dilinde yazılmış Veri Bilimi algoritmaları ve Makine Öğrenmesi modelleri paylaşılmaktadır</p>
