@@ -6,6 +6,12 @@
      alt="Python Logo" 
      width="300" 
      height="200" > 
+          <div style="display:flex; justify-content:right;">
+    <img src=" https://www.startechup.com/blog/node-js-what-it-is-used-for-and-when-where-to-use-it-for-your-enterprise-app-development/" 
+     alt="Nodejs Logo" 
+     width="300" 
+     height="200" > 
+     
     </div>
     <div>
       <p>➡️   Bu repositoryde herkese açık şekilde Python dilinde yazılmış Veri Bilimi algoritmaları ve Makine Öğrenmesi modelleri paylaşılmaktadır</p>
