@@ -7,6 +7,12 @@
      width="300" 
      height="200" > 
      <div style="display:flex; justify-content:right;">
+    <div style="display:flex; justify-content:right;">
+    <img src="https://www.python.org/static/community_logos/python-logo.png" 
+     alt="Python Logo" 
+     width="300" 
+     height="200" > 
+     <div style="display:flex; justify-content:left;">
     <img src="https://www.mindrops.com/images/nodejs-image.webp" 
      alt="Nodejs Logo" 
      width="300" 
