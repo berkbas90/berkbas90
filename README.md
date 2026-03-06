@@ -2,7 +2,7 @@
   <body>
     <h1>Kişisel GitHub Repo'ma Hoşgeldiniz !</h1>
     <div style="display:flex; justify-content:right;">
-    <img src="intro.png" 
+    <img src="baseimage.png" 
      alt="Python Logo" 
      width="300" 
      height="200" > 
