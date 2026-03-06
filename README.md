@@ -4,8 +4,8 @@
     <div style="display:flex; justify-content:right;">
     <img src="baseimage.png" 
      alt="Python Logo" 
-     width="700" 
-     height="400" > 
+     width="900" 
+     height="600" > 
     </div>
     <div>
       <p>➡️   Bu repositoryde herkese açık şekilde Python dilinde yazılmış Veri Bilimi algoritmaları ve Makine Öğrenmesi modelleri paylaşılmaktadır</p>
